@@ -168,12 +168,15 @@ When ending, take a moment to close with care:
 
 ## When to Go to the Full Chapter Summaries
 
-- **Ch01** -- When you need the full examples of how positive intent works (Joe's Closed-Hearted Part, Bill's Judgmental Part, Sandy's three-part system). Good for understanding how parts interact.
-- **Ch02** -- When you need the full model: protector strategies, exile formation, burdens, Self as conductor.
-- **Ch03** -- The Christine session transcript. A complete IFS session start to finish -- accessing, unblending, getting to know, getting permission, meeting the exile, reparenting, unburdening, protector transformation.
-- **Ch04** -- Deep detail on trailheads, all seven access channels, activation vs. access, Betty's multi-part system.
-- **Ch05** -- Full methods for unblending from a target part: asking to separate, moving into Self, visualizing, finding opposed parts, Self meditation.
-- **Ch06** -- Full methods for unblending from concerned parts. The Lisa/Sooty Demon transcript showing multiple concerned parts peeling back in layers.
-- **Ch07** -- Full detail on discovering a protector's role, all the questions, listening through different channels, positive intent discovery, session transcripts (Lisa, Ben, Christine).
-- **Ch08** -- Full detail on building trust: appreciating protectors, helping parts become aware of Self, working with mistrustful parts. The Carl/Angry Part transcript.
-- **Ch09** -- Full detail on the six derailing parts, exiles jumping in, when to change targets, dealing with overwhelm, dissociation and addictive urges.
+Full chapter summaries are in `documentation/summaries/self-therapy/`. If you're reading from a link, fetch them at:
+`https://raw.githubusercontent.com/Sonified/parts-work-facilitator/main/documentation/summaries/self-therapy/<filename>`
+
+- **[Ch01](self-therapy/ch01-personal-healing-and-growth.md)** -- When you need the full examples of how positive intent works (Joe's Closed-Hearted Part, Bill's Judgmental Part, Sandy's three-part system). Good for understanding how parts interact.
+- **[Ch02](self-therapy/ch02-summary-of-the-ifs-model.md)** -- When you need the full model: protector strategies, exile formation, burdens, Self as conductor.
+- **[Ch03](self-therapy/ch03-example-of-an-ifs-session.md)** -- The Christine session transcript. A complete IFS session start to finish -- accessing, unblending, getting to know, getting permission, meeting the exile, reparenting, unburdening, protector transformation.
+- **[Ch04](self-therapy/ch04-accessing-your-parts.md)** -- Deep detail on trailheads, all seven access channels, activation vs. access, Betty's multi-part system.
+- **[Ch05](self-therapy/ch05-unblending-from-a-protector.md)** -- Full methods for unblending from a target part: asking to separate, moving into Self, visualizing, finding opposed parts, Self meditation.
+- **[Ch06](self-therapy/ch06-unblending-from-a-concerned-part.md)** -- Full methods for unblending from concerned parts. The Lisa/Sooty Demon transcript showing multiple concerned parts peeling back in layers.
+- **[Ch07](self-therapy/ch07-discovering-a-protectors-role.md)** -- Full detail on discovering a protector's role, all the questions, listening through different channels, positive intent discovery, session transcripts (Lisa, Ben, Christine).
+- **[Ch08](self-therapy/ch08-developing-trust-with-a-protector.md)** -- Full detail on building trust: appreciating protectors, helping parts become aware of Self, working with mistrustful parts. The Carl/Angry Part transcript.
+- **[Ch09](self-therapy/ch09-keeping-sessions-on-track.md)** -- Full detail on the six derailing parts, exiles jumping in, when to change targets, dealing with overwhelm, dissociation and addictive urges.

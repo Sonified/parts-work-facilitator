@@ -180,3 +180,40 @@ Full chapter summaries are in `documentation/summaries/self-therapy/`. If you're
 - **[Ch07](self-therapy/ch07-discovering-a-protectors-role.md)** -- Full detail on discovering a protector's role, all the questions, listening through different channels, positive intent discovery, session transcripts (Lisa, Ben, Christine).
 - **[Ch08](self-therapy/ch08-developing-trust-with-a-protector.md)** -- Full detail on building trust: appreciating protectors, helping parts become aware of Self, working with mistrustful parts. The Carl/Angry Part transcript.
 - **[Ch09](self-therapy/ch09-keeping-sessions-on-track.md)** -- Full detail on the six derailing parts, exiles jumping in, when to change targets, dealing with overwhelm, dissociation and addictive urges.
+
+---
+
+## When to Reach for Additional Resources
+
+These documents are in `documentation/summaries/`. If you're reading from a link, fetch them at:
+`https://raw.githubusercontent.com/Sonified/parts-work-facilitator/main/documentation/summaries/<filename>`
+
+### Reference
+
+- **[example-parts.md](example-parts.md)** -- Concrete examples of what exiles, managers, and firefighters actually look and sound like: their language, body signatures, behaviors, and what happens when they break through. Reach for this when you need to sharpen pattern recognition mid-session -- especially when you're unsure whether what showed up is an exile jumping in or a protector shifting strategy.
+- **[ifs-and-anger.md](ifs-and-anger.md)** -- How IFS works with anger specifically. Anger is always a protector; this covers what it guards, how to stay in the fire without distancing into clinical language, and session examples of what happens when rage is given full permission to speak. Read this when anger shows up hot.
+- **[no-bad-parts.md](no-bad-parts.md)** -- Summary of Schwartz's foundational book. Covers critical concepts not fully present elsewhere: the distinction between a part and the burden it carries (burdens are not intrinsic -- they can be released), blending mechanics, legacy burdens (inherited from family or culture), and Self-like managers -- parts that masquerade as Self. That last one is an operational trap during F3 checks. Read this when the work touches burdens or when something that looks like Self feels slightly off.
+
+### Worksheets
+
+- **[worksheets.md](worksheets.md)** -- Ten structured worksheets covering the full arc of the work, each with clear "use when" guidance. Includes: parts mapping, profile cards, Self energy check-ins, unblending steps, polarization maps (when two parts are clashing), protector consent sheets (critical before any exile work), trigger cycle mapping, and unburdening aftercare. Reach for this when you want to offer something more structured than a Parts Map entry or Session Log -- especially the polarization map (internal conflict), the trigger cycle (repeating patterns), and the protector consent sheet (before approaching an exile).
+
+### Guided Exercises
+
+Fourteen guided exercises from Schwartz's *No Bad Parts*, each 10-25 minutes. These can be walked through in session or suggested as between-session practice. Fetch individual exercises at:
+`https://raw.githubusercontent.com/Sonified/parts-work-facilitator/main/documentation/summaries/nbp-exercises/<filename>`
+
+- **[01-getting-to-know-a-protector.md](nbp-exercises/01-getting-to-know-a-protector.md)** -- First contact with a part. Good for someone brand new to the work.
+- **[02-mapping-your-parts.md](nbp-exercises/02-mapping-your-parts.md)** -- Visual snapshot of one subsystem. Good early exercise when the person wants to see the landscape.
+- **[03-unblending-and-embodying.md](nbp-exercises/03-unblending-and-embodying.md)** -- Core daily meditation. The single most important practice exercise to offer for between sessions.
+- **[04-dilemma-meditation.md](nbp-exercises/04-dilemma-meditation.md)** -- When the person is facing a decision with internal conflict. Both sides get to speak.
+- **[05-challenging-protector.md](nbp-exercises/05-challenging-protector.md)** -- Approaching a part the person sees as an inner enemy. Use when they're ready to turn toward something they've been fighting.
+- **[06-daily-ifs-meditation.md](nbp-exercises/06-daily-ifs-meditation.md)** -- Ongoing daily practice. Offer when someone wants a sustainable routine.
+- **[07-the-path.md](nbp-exercises/07-the-path.md)** -- Experiencing pure Self energy. A deeper meditation for when the person has some familiarity with the work.
+- **[08-accessing-self-through-unblending.md](nbp-exercises/08-accessing-self-through-unblending.md)** -- Practicing Self-leadership with eyes open. Good for bridging inner work into daily life.
+- **[09-fire-drill.md](nbp-exercises/09-fire-drill.md)** -- Working with triggering people. When someone keeps getting activated by the same person or type of person.
+- **[10-sad-person-meditation.md](nbp-exercises/10-sad-person-meditation.md)** -- Exploring what blocks presence with others' pain. Useful when caretaker parts or emotional walls show up.
+- **[11-advanced-parts-mapping.md](nbp-exercises/11-advanced-parts-mapping.md)** -- Using triggers to map deeper subsystems. For when the basic map feels incomplete.
+- **[12-working-with-triggers.md](nbp-exercises/12-working-with-triggers.md)** -- Short (5-10 min) exercise for when previous work has activated parts. Good to have ready as a cool-down.
+- **[13-advanced-protector-work.md](nbp-exercises/13-advanced-protector-work.md)** -- Legacy burdens: working with parts the person is most ashamed of. Deep work; read the no-bad-parts summary first.
+- **[14-body-meditation.md](nbp-exercises/14-body-meditation.md)** -- Working with physical symptoms and body tension. When a part lives primarily in the body and verbal access isn't working.
